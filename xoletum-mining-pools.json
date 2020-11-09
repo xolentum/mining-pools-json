@@ -1,0 +1,33 @@
+  
+{
+  "pools": [
+    {
+      "name": "FastPool.XyZ",
+      "url": "https://fastpool.xyz/xol/",
+      "api": "https://fastpool.xyz/api-xol/stats",
+      "type": "cn-js"
+    },
+    {
+      "name": "Walemo",
+      "url": "https://pool.walemo.com/xol/",
+      "api": "https://xolpool.walemo.com:36168/stats",
+      "type": "cn-js"
+    },
+    {
+      "name": "Rplant",
+      "url": "https://pool.rplant.xyz/",
+      "api": "https://pool.rplant.xyz/api/stats",
+      "type": "other"
+    },
+    {
+      "name": "GNTL Mining Pools",
+      "url": "https://xol.pool.gntl.co.uk/",
+      "api": [
+          "https://xol.pool.gntl.co.uk/api/pool/stats",
+          "https://xol.pool.gntl.co.uk/api/network/stats",
+          "https://xol.pool.gntl.co.uk/api/config"
+      ],
+      "type": "other"
+    }
+  ]
+}
