@@ -8,18 +8,6 @@
       "type": "cn-js"
     },
     {
-      "name": "Walemo",
-      "url": "https://pool.walemo.com/xol/",
-      "api": "https://xolpool.walemo.com:36168/stats",
-      "type": "cn-js"
-    },
-    {
-      "name": "Rplant",
-      "url": "https://pool.rplant.xyz/",
-      "api": "https://pool.rplant.xyz/api/stats",
-      "type": "other"
-    },
-    {
       "name": "GNTL Mining Pools",
       "url": "https://xol.pool.gntl.co.uk/",
       "api": [
@@ -28,6 +16,18 @@
           "https://xol.pool.gntl.co.uk/api/config"
       ],
       "type": "other"
+    },
+    {
+      "name": "Rplant",
+      "url": "https://pool.rplant.xyz/",
+      "api": "https://pool.rplant.xyz/api/stats",
+      "type": "other"
+    },
+    {
+      "name": "Walemo",
+      "url": "https://pool.walemo.com/xol/",
+      "api": "https://xolpool.walemo.com:36168/stats",
+      "type": "cn-js"
     }
   ]
 }
