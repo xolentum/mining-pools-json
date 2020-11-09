@@ -1,0 +1,37 @@
+{
+  "name": "xolentum-mining-pools-json",
+  "version": "0.0.1",
+  "description": "JSON list of known Xolentum mining pools",
+  "main": "xolentum-mining-pools.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm run checkDupes && npm run checkAlpha && npm run checkOrder",
+    "checkDupes": "node tests/checkForDuplicates.js",
+    "checkAlpha": "node tests/checkAlphaNumeric.js",
+    "checkOrder": "node tests/checkAlphabetical.js",
+    "checkPools": "./node_modules/.bin/mocha tests/checkPools.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xolentum/mining-pools-json.git"
+  },
+  "keywords": [
+    "xolentum",
+    "mining",
+    "pools"
+  ],
+  "author": "The Xolentum Project",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xolentum/mining-pools-json/issues"
+  },
+  "homepage": "https://github.com/xolentum/mining-pools-json#readme",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "mocha": "^8.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
