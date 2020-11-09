@@ -18,6 +18,12 @@
       "type": "other"
     },
     {
+      "name": "Pool Pay",
+      "url": "https://xol.pool-pay.com/",
+      "api": "https://xol.pool-pay.com:5813/stats",
+      "type": "cn-js"
+    },
+    {
       "name": "Rplant",
       "url": "https://pool.rplant.xyz/",
       "api": "https://pool.rplant.xyz/api/stats",
