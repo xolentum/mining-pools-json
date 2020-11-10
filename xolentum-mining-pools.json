@@ -26,7 +26,10 @@
     {
       "name": "Rplant",
       "url": "https://pool.rplant.xyz/",
-      "api": "https://pool.rplant.xyz/api/stats",
+      "api": [
+        "https://pool.rplant.xyz/api/stats",
+        "https://pool.rplant.xyz/api/blocks"
+      ],
       "type": "other"
     },
     {
