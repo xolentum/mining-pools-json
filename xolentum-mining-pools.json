@@ -24,6 +24,12 @@
       "type": "other"
     },
     {
+      "name": "Lets Hash It",
+      "url": "http://letshash.it/xol/",
+      "api": "https://letshash.online:15046/stats",
+      "type": "cn-js"
+    },
+    {
       "name": "Pool Pay",
       "url": "https://xol.pool-pay.com/",
       "api": "https://xol.pool-pay.com:5813/stats",
