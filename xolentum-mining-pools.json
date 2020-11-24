@@ -2,6 +2,12 @@
 {
   "pools": [
     {
+      "name": "E4Pool",
+      "url": " https://e4pool.com/xol/",
+      "api": "http://e4pool.com:7098/stats",
+      "type": "cn-js"
+    },
+    {
       "name": "FastPool.XyZ",
       "url": "https://fastpool.xyz/xol/",
       "api": "https://fastpool.xyz/api-xol/stats",
