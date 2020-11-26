@@ -30,6 +30,12 @@
       "type": "cn-js"
     },
     {
+      "name": "MineBlocks",
+      "url": "http://mineblocks.co.uk/",
+      "api": "http://82.42.36.23:8250/stats",
+      "type": "cn-js"
+    },
+    {
       "name": "Pool Pay",
       "url": "https://xol.pool-pay.com/",
       "api": "https://xol.pool-pay.com:5813/stats",
