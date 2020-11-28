@@ -36,6 +36,12 @@
       "type": "cn-js"
     },
     {
+      "name": "MinersGalaxy",
+      "url": "http://minergalaxy.com/XOL/",
+      "api": "http://207.180.227.127:8117/stats",
+      "type": "cn-js"
+    },
+    {
       "name": "Pool Pay",
       "url": "https://xol.pool-pay.com/",
       "api": "https://xol.pool-pay.com:5813/stats",
