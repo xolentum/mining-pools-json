@@ -30,12 +30,6 @@
       "type": "cn-js"
     },
     {
-      "name": "MineBlocks",
-      "url": "http://mineblocks.co.uk/",
-      "api": "http://82.42.36.23:8250/stats",
-      "type": "cn-js"
-    },
-    {
       "name": "MinersGalaxy",
       "url": "http://minergalaxy.com/XOL/",
       "api": "http://207.180.227.127:8117/stats",
