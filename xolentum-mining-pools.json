@@ -55,6 +55,12 @@
       "url": "https://pool.walemo.com/xol/",
       "api": "https://xolpool.walemo.com:36168/stats",
       "type": "cn-js"
+    },
+    {
+      "name": "XMR Miners Club",
+      "url": "https://xolentum.xmrminers.club/",
+      "api": "https://xolentum-api.xmrminers.club/stats",
+      "type": "cn-js"
     }
   ]
 }
